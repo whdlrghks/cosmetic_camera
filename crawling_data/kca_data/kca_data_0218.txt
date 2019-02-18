@@ -1,0 +1,9 @@
+1*가공소금*empty*empty
+2*가지열매추출물*Solanum Melongena (Eggplant) Fruit Extract*피부컨디셔닝제(기타)
+3*구멍쇠미역추출물*Agarum Cribrosum Extract*피부컨디셔닝제(기타)
+4*루핀아미노산*Lupine Amino Acids*헤어컨디셔닝제, 피부컨디셔닝제(보습제)
+5*류신*Leucine*헤어컨디셔닝제, 피부컨디셔닝제(기타)
+6*류코노스톡/무발효여과물*Leuconostoc/Radish Root Ferment Filtrate*헤어컨디셔닝제, 피부컨디셔닝제(기타)
+7*백혈구추출물*Leukocyte Extract*empty
+8*리나칸투스 콤무니스추출물*Rhinacanthus Communis Extract*피부컨디셔닝제(기타)
+9*리날룰*Linalool*착향제

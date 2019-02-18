@@ -1,0 +1,6 @@
+2*https://static.ewg.org/skindeep/img/draw_score/score_image1_1_1_.png*Limited
+4*https://static.ewg.org/skindeep/img/draw_score/score_image1_1_1_.png*None
+5*https://static.ewg.org/skindeep/img/draw_score/score_image1_1_1_.png*Fair
+6*https://static.ewg.org/skindeep/img/draw_score/score_image1_1_1_.png*None
+7*https://static.ewg.org/skindeep/img/draw_score/score_image1_1_1_.png*Limited
+9*https://static.ewg.org/skindeep/img/draw_score/score_image5_5_1_.png*Fair
